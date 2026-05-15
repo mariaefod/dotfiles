@@ -68,3 +68,7 @@
 [user]
 	email = maria.oliveira.duque@gmail.com
 	name = Maria Duque
+[http]
+	proxy = http://x19247953:Seplag2023@proxycamg.prodemge.gov.br:8080
+[credential]
+	helper = cache
